@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/pinglun/pinglun",
+    "pages/dongtai/dongtai",
+    
+    "pages/my/my",
+    "pages/dingdan/dingdan",
+    "pages/logs/logs"
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
